@@ -1,5 +1,4 @@
 from flask import Flask, request, jsonify
-from sklearn.tree import DecisionTreeClassifier
 import numpy as np
 import pandas as pd
 import pickle
